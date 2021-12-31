@@ -26,6 +26,8 @@
                             <div class="form-group mb-3"><label class="form-label">First Name </label><input class="form-control" type="text" name="fname"></div>
                             <div class="form-group mb-3"><label class="form-label">Last Name</label><input class="form-control" type="text" name="lname"></div>
                             <div class="form-group mb-3"><label class="form-label">Current Address</label><input class="form-control" type="text" name="caddress"></div>
+                            
+                            <!--Container for Sex form-->
                             <div class="row text-start" style="margin-left: -34px;margin-right: 166px;">
                                 <div class="col-md-8 offset-md-1">
                                   <label class="col-form-label">Sex</label></div>
@@ -37,6 +39,8 @@
                                         
                                     </select></div>
                             </div>
+
+
                         </div>
                         <!-- left side ng personal information -->
                         <div class="col-sm-12 col-md-6">
